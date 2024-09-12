@@ -1,0 +1,47 @@
+{
+  "us-west-2": {
+    "EC2Instances": [],
+    "EBSVolumes": [],
+    "ElasticIPs": [],
+    "EBSSnapshots": [],
+    "LoadBalancers": [],
+    "NATGateways": [],
+    "NetworkInterfaces": [],
+    "AutoScalingGroups": [],
+    "PlacementGroups": [],
+    "SpotFleets": [],
+    "VPCs": [
+      "vpc-01fc563a2be5eb198"
+    ],
+    "Subnets": [
+      "subnet-0b8318e941d3fe2c4",
+      "subnet-0c9fec2b3b843160e",
+      "subnet-0d1b8874a1761cdf9",
+      "subnet-05a415501765506d7"
+    ],
+    "InternetGateways": [
+      "igw-00377dc079f768b94"
+    ],
+    "SQSQueues": null,
+    "SecretsManager": [],
+    "CodeCommit": [],
+    "CloudWatchAlarms": [],
+    "SageMakerNotebooks": [],
+    "CloudWatchLogs": [
+      "/aws/lambda/iterator",
+      "/aws/lambda/test"
+    ],
+    "ECRRepositories": [],
+    "CodeBuildProjects": [],
+    "LambdaFunctions": [
+      "StepFunction",
+      "test"
+    ],
+    "EFS": [],
+    "DynamoDBTables": [],
+    "CloudWatchEvents": [],
+    "KMSKeys": [],
+    "SNSTopics": [],
+    "AMIs": []
+  }
+}

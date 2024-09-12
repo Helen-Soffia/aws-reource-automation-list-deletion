@@ -1,0 +1,1 @@
+# aws-reource-automation-list-deletion
